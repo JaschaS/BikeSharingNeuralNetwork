@@ -1,0 +1,13 @@
+# Ignore all json files
+*.json
+
+# Ignore all zip files
+*.zip
+
+# Ignore jupyter checkpoints
+.ipynb_checkpoints/Your_first_neural_network-checkpoint.ipyn
+.ipynb_checkpoints
+
+# Ignore pycache
+__pycache__/my_answers.cpython-36.pyc
+__pycahe__
